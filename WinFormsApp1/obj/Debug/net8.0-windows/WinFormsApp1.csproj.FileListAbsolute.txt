@@ -1,0 +1,47 @@
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Form1.resources
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.calculator.resources
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.formInheritance.resources
+D:\Bachelor\Eighth sem\WinFormsApp1\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.register.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\bin\Debug\net8.0-windows\Npgsql.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.AssemblyReference.cache
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.formWithSQL.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Properties.Resources.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.GenerateResource.cache
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.cs
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.csproj.CoreCompileInputs.cache
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinForms.E4050A35.Up2Date
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.crudOperation.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.insert.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.View.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Delete.resources
+D:\Bachelor\Eighth sem\lab 5\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.Update.resources
